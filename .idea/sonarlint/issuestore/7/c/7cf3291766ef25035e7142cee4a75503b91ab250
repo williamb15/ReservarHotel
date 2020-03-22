@@ -1,0 +1,5 @@
+
+|squid:UselessImportCheck	"QRemove this unused import 'proyecto.autoestudio.viajes.userinterface.ResultPage'.(åÓ©å8‹ÍØı.
+vsquid:UselessImportCheck"FRemove this unused import 'net.serenitybdd.screenplay.questions.Text'.(ùŠ¨ÿÿÿÿÿ8Òôáş.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ïÊÃ8½°»ş.

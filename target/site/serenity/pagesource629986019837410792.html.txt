@@ -1,0 +1,187 @@
+<html lang="es"><head>
+    <!-- version: 2.13.3 -->
+    <meta charset="utf-8">
+    <link rel="dns-prefetch" href="https://3.cdnpt.com/">
+    <link rel="dns-prefetch" href="https://cdn.optimizely.com/">
+    <link rel="stylesheet" type="text/css" href="//3.cdnpt.com/styles/1.1085/templates/pricetravel/t-hotel-spa.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>PriceTravel</title>
+    <base href="/">
+    <meta name="distribution" content="global">
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    <meta http-equiv="content-language" content="es-mx">
+    <meta name="language" content="es-mx">
+    <link rel="SHORTCUT ICON" href="https://3.cdnpt.com/images/favicon2.ico">
+    <style>
+      .booker-card .card-header span[class^='ptw-icon-'] {
+        color: #fff;
+        float: right;
+        font-size: 20px;
+        line-height: 0.9;
+        display: block;
+      }
+
+      .inline-input-filter > input.form-control {
+        width: 95%;
+        margin-bottom: 0px;
+      }
+
+      .inline-input-filter > .input-group-btn {
+        display: inline-block;
+        margin-left: -28px;
+      }
+
+      .inline-input-filter button {
+        background-color: #506c90;
+        color: #fff;
+        height: 36px;
+      }
+
+      @media (min-width: 768px) {
+        .booker-card .card-header span[class^='ptw-icon-'] {
+          display: none;
+        }
+      }
+
+      #ngb-live {
+        display: none;
+      }
+
+      .show-xs {
+        display: block !important;
+      }
+
+      h1.error-title {
+        line-height: 100%;
+        margin: 1.25em 0 0.3em 0;
+        color: #ed1556;
+      }
+
+      ul.bullet.error-list {
+        font-size: 1.25em;
+        line-height: 200%;
+        list-style-position: inside;
+        /* list-style-type: disc; */
+        margin-bottom: 10px;
+      }
+
+      ul.bullet.error-list,
+      ul.bullet.error-list li {
+        list-style-type: disc;
+      }
+
+      .pt-payment-icon-container {
+        height: 50px;
+        display: block;
+      }
+
+      .pt-payment-row {
+        margin-bottom: 0em;
+      }
+
+      pth-not-found-error-message p.bodytext a,
+      ul.bullet.error-list li a {
+        color: #06c;
+        text-decoration: none;
+      }
+
+      .ptw-sprite-afirme,
+      .ptw-sprite-mifiel,
+      .ptw-sprite-famsa,
+      .ptw-sprite-banbajio,
+      .ptw-sprite-banjercito,
+      .ptw-sprite-banregio,
+      .ptw-sprite-inbursa,
+      .ptw-sprite-invex,
+      .ptw-sprite-itaucard,
+      .ptw-sprite-liverpool,
+      .ptw-sprite-oxxo,
+      .ptw-sprite-amex {
+        margin-top: 15px;
+      }
+
+      .sr-only {
+        display: none;
+      }
+      
+      .booker-card--horizontal .ptw-field-group-rooms {
+        display: block;
+      }
+
+      .booker-card--horizontal .ptw-field-dates {
+        margin-bottom: 0.75em;
+      }
+      .loading-msg-text {
+        font-size: 15px;
+        color: #444;
+        font-weight: bold;
+        margin: 1em 0;
+        text-align: center;
+      }
+      .price-res-copyright {
+        font-weight: bold;
+      }
+      p.hotel-description {
+        white-space: pre-wrap;
+      }
+      .pt-payment-alerts.center {
+        text-align: center;
+      }
+      /*Estilos para banner del teléfono*/
+      .banner-telephone {
+        color: #5c469c;
+        background: #f8f8f8;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        padding: 10px;
+        text-align: center;
+        margin: 8px 0;
+        font-size: 14px;
+      }
+      .banner-telephone-mobile {
+        color: #5c469c;
+        font-weight: 500;
+        font-size: 14px;
+        text-decoration: none;
+      }
+      .banner-telephone-desktop {
+        display: none;
+      }
+      .banner-telephone-icon {
+        width: 28px;
+        height: 28px;
+        padding: 0 4px;
+        display: inline-block;
+        vertical-align: middle;
+        color: #5c469c;
+        padding-top: 4px;
+      }
+      @media (min-width: 768px) {
+        .banner-telephone-mobile {
+          display: none;
+        }
+        .banner-telephone-desktop {
+          display: block;
+        }
+      }
+    </style>
+    <script>
+      window.config = {
+        api: {
+          config:
+            'https://hp4pb47g5d.execute-api.us-east-1.amazonaws.com/prod/config/spa-ptco2'
+        }
+      };
+
+      window.addEventListener('beforeunload', function (event) {});
+    </script>
+  </head>
+
+  <body>
+    <app-root></app-root>
+  <script type="text/javascript" src="/hoteles/runtime.b9849a1c92b1b9eaf1b4.js"></script><script type="text/javascript" src="/hoteles/polyfills.dd0d2a1574d64f602214.js"></script><script type="text/javascript" src="/hoteles/main.5cdfd12d121da3859436.js"></script>
+
+</body></html>
